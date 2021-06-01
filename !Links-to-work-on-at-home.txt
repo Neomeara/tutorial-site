@@ -1,0 +1,6 @@
+This file is for notes and links to the pages that I will need for working at thome if I do that
+
+UX TUT Devops - https://dev.azure.com/Daktronics/General/_wiki/wikis/General.wiki/336/Web-Technology-Overview
+    First tutorial - https://developer.mozilla.org/en-US/docs/Learn
+        Getting Started - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+            HTML Basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics

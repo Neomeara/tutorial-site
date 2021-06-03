@@ -1,0 +1,32 @@
+html {
+    background-color: darksalmon;
+    font-family: 'Limelight', cursive;
+}
+
+P {
+    font-size: 16px;
+    
+}
+
+body {
+    background-color:darkslategrey ;
+    margin: 0 auto;
+    border: 10px solid black;
+    width: 600px;
+    padding: 0 20px 20px 20px;
+}
+
+
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+H1 {
+    font-size: 60px;
+    text-shadow: 10px 15px 10px black;
+    text-align: center;
+    color:chocolate;
+    padding: 20px 0;
+}
